@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- GIF уменьшен -->
-<img src="https://i.pinimg.com/originals/ba/25/cb/ba25cbc1bca4ebdf74d8231157cabe06.gif" width="900" height="120"/>
+<!-- GIF -->
+<!-- <img src="https://i.pinimg.com/originals/ba/25/cb/ba25cbc1bca4ebdf74d8231157cabe06.gif" width="900" height="120"/> -->
+<img src="https://media.tenor.com/FI9CZRTgweMAAAAM/lain-lain-iwakura.gif" width="900" height="120"/>
 
 <table>
   <tr>
