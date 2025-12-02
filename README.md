@@ -38,7 +38,7 @@
     <td align="center" valign="top">
       <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"></code>
       <br>
-      <b>Rewtire on Rust</b>
+      <b>Rewrite on Rust</b>
     </td>
     <!-- Right: PHP -->
     <td align="center" valign="top">
@@ -47,7 +47,7 @@
       <b>Stop doing PHP</b>
     </td>
     <td align="center" valign="top">
-    <img src="https://i.pinimg.com/736x/e2/44/c2/e244c20402583b3c9e30e682f1c85117.jpg" width="120" height="60"/>
+    <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60"/>
   </td>
   </tr>
 </table>
