@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/FI9CZRTgweMAAAAM/lain-lain-iwakura.gif" width="900" height="120"/>
 
 <!-- Views Counter -->
-![Views](https://komarev.com/ghpvc/?username=zolofq&color=blueviolet)
+<!-- ![Views](https://komarev.com/ghpvc/?username=zolofq&color=blueviolet) -->
 
 <table>
   <tr>
