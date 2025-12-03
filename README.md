@@ -31,6 +31,8 @@
   </tr>
 </table>
 
+<img src="https://count.getloli.com/get/@zolofq?theme=rule34" alt="visitor badge"/>
+
 <!-- Rust -->
 <table align="center">
   <tr>
