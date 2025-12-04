@@ -38,7 +38,7 @@
   <tr>
     <!-- Left: Rust -->
     <td align="center" valign="top">
-      <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"></code>
+      <code><img height="35" src="https://image2url.com/images/1764873473870-08ccf70f-83ac-4776-bc56-5b3aaa75d361.png" alt="rust"></code>
       <br>
       <b>Rewrite on Rust</b>
     </td>
