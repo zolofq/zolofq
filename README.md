@@ -20,12 +20,19 @@
     </td>
     <!-- Right column: Web -->
     <td valign="top">
-      <h3>Web</h3>
+      <h3>Web (Never again)</h3>
       <p>
         <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
         <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
         <a href="#"><img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
         <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+      </p>
+    <!-- Left column: Game Dev -->
+    <td valign="top">
+      <h3>Learn</h3>
+      <p>
+        <a href="https://roadmap.sh/aspnet-core" target="_blank"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
+        <a href="https://roadmap.sh/postgresql-dba" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
       </p>
     </td>
   </tr>
