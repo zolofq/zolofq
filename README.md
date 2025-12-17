@@ -13,9 +13,8 @@
       <h3>Things I make games with</h3>
       <p>
         <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
-        <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
-        <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" /></a>
-        <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" /></a>
+        <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" /></a>
+        <a href="https://krita.org/"><img alt="Krita" src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" /></a>
       </p>
     </td>
     <!-- Right column: Web -->
@@ -24,6 +23,7 @@
       <p>
         <a href="https://roadmap.sh/aspnet-core" target="_blank"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
         <a href="https://roadmap.sh/postgresql-dba" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
+        <a href="https://roadmap.sh/cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
       </p>
     <!-- Left column: Game Dev -->
     <td valign="top">
