@@ -24,6 +24,7 @@
         <a href="https://roadmap.sh/aspnet-core" target="_blank"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
         <a href="https://roadmap.sh/postgresql-dba" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
         <a href="https://roadmap.sh/cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
+        <a href="https://roadmap.sh/lua" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" /></a>
       </p>
     <!-- Left column: Game Dev -->
     <td valign="top">
@@ -47,13 +48,13 @@
     <td align="center" valign="top">
       <code><img height="35" src="https://image2url.com/images/1764873473870-08ccf70f-83ac-4776-bc56-5b3aaa75d361.png" alt="rust"></code>
       <br>
-      <b>Rewrite on Rust</b>
+      <b>For masochists</b>
     </td>
     <!-- Right: PHP -->
     <td align="center" valign="top">
-      <code><img height="35" src="https://b.thumbs.redditmedia.com/W3jraEjFlH9BQbWN7nGyMetgxt27ZA_J6Fp2TDRxaUU.jpg" alt="php"></code>
+      <code><img height="35" src="https://preview.redd.it/why-do-you-hate-the-elephant-v0-8lcgiqbmeb4b1.jpg?width=640&crop=smart&auto=webp&s=61ef2dad3b70f42436712687c65d3efd16fe2cec" alt="php"></code>
       <br>
-      <b>Stop doing PHP</b>
+      <b>For sadists</b>
     </td>
     <td align="center" valign="top">
     <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60"/>
