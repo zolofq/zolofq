@@ -52,6 +52,8 @@
     </td>
     <td align="center" valign="top">
     <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60"/>
+    <td align="center" valign="top">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvwXzhYXoY2IBZpKWpYi05CtA1myD5T5RBxSXeSR6WhTkH9uR" width="120" height="60"/>
   </td>
   </tr>
 </table>
