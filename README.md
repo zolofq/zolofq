@@ -1,59 +1,39 @@
 <div align="center">
 
-<!-- GIF -->
-<img src="https://media.tenor.com/FI9CZRTgweMAAAAM/lain-lain-iwakura.gif" width="900" height="120"/>
+<img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAd/serial-experiments-lain-lain.gif" width="800" height="140"/>
 
-<!-- Views Counter -->
-<!-- ![Views](https://komarev.com/ghpvc/?username=zolofq&color=blueviolet) -->
+<br>
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Reason for existence</h3>
-      <p>
-        <a href="https://roadmap.sh/game-developer" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
-        <a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" /></a>
-        <a href="https://docs.krita.org/en/user_manual/getting_started.html" target="_blank"><img alt="Krita" src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" /></a>
-      </p>
-    </td>
-    <td valign="top">
-      <h3>present day, present time</h3>
-      <p>
-        <a href="https://roadmap.sh/aspnet-core" target="_blank"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></a>
-        <a href="https://roadmap.sh/postgresql-dba" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
-      </p>
-    </td>
-    <td valign="top">
-      <h3>Schizo</h3>
-      <p>
-        <a href="https://roadmap.sh/cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <div align="left" style="display: inline-block;">
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
+    <b>indie</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
+    <b>backend</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
+    <b>bored</b>
+  </div>
+</p>
+
+<p align="center">
+  <a href="https://roadmap.sh/game-developer"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" /></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" /></a>
+  <a href="https://docs.krita.org/"><img src="https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://roadmap.sh/aspnet-core"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" /></a>
+  <a href="https://roadmap.sh/postgresql-dba"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://roadmap.sh/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /></a>
+</p>
+
 
 <img src="https://count.getloli.com/get/@zolofq?theme=rule34" alt="visitor badge"/>
 
-<!-- Rust -->
-<table align="center">
-  <tr>
-    <!-- Left: Rust -->
-    <td align="center" valign="top">
-      <code><img height="35" src="https://image2url.com/images/1764873473870-08ccf70f-83ac-4776-bc56-5b3aaa75d361.png" alt="rust"></code>
-      <br>
-      <b>For masochists</b>
-    </td>
-    <!-- Right: PHP -->
-    <td align="center" valign="top">
-      <code><img height="35" src="https://preview.redd.it/why-do-you-hate-the-elephant-v0-8lcgiqbmeb4b1.jpg?width=640&crop=smart&auto=webp&s=61ef2dad3b70f42436712687c65d3efd16fe2cec" alt="php"></code>
-      <br>
-      <b>For sadists</b>
-    </td>
-    <td align="center" valign="top">
-    <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60"/>
-    <td align="center" valign="top">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvwXzhYXoY2IBZpKWpYi05CtA1myD5T5RBxSXeSR6WhTkH9uR" width="120" height="60"/>
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/85/5f/95/855f9585ce642ed829c580065a5a022a.jpg" width="120" height="60" />
+  &nbsp;
+  <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60" />
+  &nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvwXzhYXoY2IBZpKWpYi05CtA1myD5T5RBxSXeSR6WhTkH9uR" width="120" height="60" />
+</p>
+
+</div>
