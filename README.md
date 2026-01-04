@@ -5,26 +5,10 @@
 <br>
 
 <p align="center">
-  <div align="left" style="display: inline-block;">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>indie</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
-    <b>backend</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
-    <b>bored</b>
-  </div>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=indie&fontFamily=Source+Code+Pro&lineCount=1&theme=apprentice&width=340&fontSize=16&line1=unity,Unity,;blender,Blender,;krita,Krita,;" height="90" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=backend&fontFamily=Source+Code+Pro&lineCount=1&theme=apprentice&width=320&fontSize=16&line1=dotnet,ASP.NET+Core,;postgresql,PostgreSQL,;" height="90" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=bored&fontFamily=Source+Code+Pro&lineCount=1&theme=apprentice&width=320&fontSize=16&line1=cplusplus,C%2b%2b,00599C;lua,Lua,2C2D72;flutter,Flutter,02569B;" height="90" />
 </p>
-
-<p align="center">
-  <a href="https://roadmap.sh/game-developer"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" /></a>
-  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" /></a>
-  <a href="https://docs.krita.org/"><img src="https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://roadmap.sh/aspnet-core"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" /></a>
-  <a href="https://roadmap.sh/postgresql-dba"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://roadmap.sh/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /></a>
-</p>
-
 
 <img src="https://count.getloli.com/get/@zolofq?theme=rule34" alt="visitor badge"/>
 
