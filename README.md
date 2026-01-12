@@ -29,7 +29,7 @@
 <img src="https://count.getloli.com/get/@zolofq?theme=rule34" alt="visitor badge"/>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/85/5f/95/855f9585ce642ed829c580065a5a022a.jpg" width="120" height="60" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735f2ca3e8b93fd5bc304480f5" width="120" height="60" />
   &nbsp;
   <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60" />
   &nbsp;
