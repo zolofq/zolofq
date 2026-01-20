@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://i.scdn.co/image/ab67616d0000b2735f2ca3e8b93fd5bc304480f5" width="120" height="60" />
   &nbsp;
-  <img src="https://cdn-images.dzcdn.net/images/cover/067e589356bc04a20dd9f53c08c9c4d9/1900x1900-000000-80-0-0.jpg" width="120" height="60" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27372aa2ed3325223003e049581" width="120" height="60" />
   &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvwXzhYXoY2IBZpKWpYi05CtA1myD5T5RBxSXeSR6WhTkH9uR" width="120" height="60" />
 </p>
