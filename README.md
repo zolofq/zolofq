@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAd/serial-experiments-lain-lain.gif" width="800" height="140"/>
+<img src="https://giffiles.alphacoders.com/257/2570.gif" width="800" height="140"/>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
