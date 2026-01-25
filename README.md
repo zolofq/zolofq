@@ -33,6 +33,8 @@
   &nbsp;
   <img src="https://i.scdn.co/image/ab67616d0000b27372aa2ed3325223003e049581" width="120" height="60" />
   &nbsp;
+  <img src="https://images.genius.com/e87d4748a09b51625745759ca1766b96.1000x1000x1.png" width="120" height="60" />
+  &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvwXzhYXoY2IBZpKWpYi05CtA1myD5T5RBxSXeSR6WhTkH9uR" width="120" height="60" />
 </p>
 
