@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://giffiles.alphacoders.com/257/2570.gif" width="800" height="140"/>
+<img src="https://i.pinimg.com/originals/e2/da/5e/e2da5e625312c20d455fc1643474fdbf.gif" width="800" height="140"/>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -29,7 +29,7 @@
 <img src="https://count.getloli.com/get/@zolofq?theme=rule34" alt="visitor badge"/>
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735f2ca3e8b93fd5bc304480f5" width="120" height="60" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQLPCYQ2w6Zc-b9_gYcLOORquiNaVgfahgA&s" width="120" height="60" />
   &nbsp;
   <img src="https://i.scdn.co/image/ab67616d0000b27372aa2ed3325223003e049581" width="120" height="60" />
   &nbsp;
