@@ -17,11 +17,13 @@
     <td style="border: none; text-align: center; vertical-align: top;">
       <a href="https://roadmap.sh/aspnet-core"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" /></a>
       <a href="https://roadmap.sh/postgresql-dba"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+      <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /></a>
     </td>
     <td style="border: none; text-align: center; vertical-align: top;">
       <a href="https://roadmap.sh/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
       <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /></a>
       <a href="https://roadmap.sh/flutter"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
+      <a href="https://github.com/dotnet/Silk.NET"><img src="https://img.shields.io/badge/Silk.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /></a>
     </td>
   </tr>
 </table>
