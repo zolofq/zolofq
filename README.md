@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/2ghbQsb0Bw4AAAAd/lain-alice.gif" width="800" height="140"/>
+<img src="https://i.pinimg.com/736x/57/53/61/57536155624953432499f07434aaabec.jpg" width="800" height="140"/>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
  <tr style="border: none;">
